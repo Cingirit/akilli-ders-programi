@@ -1,3 +1,4 @@
+
 # Akıllı Ders Programı Yönetim Sistemi
 
 Bandırma Onyedi Eylül Üniversitesi Bilgisayar Mühendisliği Bölümü lisans bitirme projesi.
@@ -55,6 +56,10 @@ npm start
 ```
 
 Uygulama `http://localhost:3000` adresinde açılır.
+
+<img width="1225" height="497" alt="Ekran görüntüsü 2026-06-26 162659" src="https://github.com/user-attachments/assets/53b13829-03c1-4028-bc22-1a5f7bc6fb8f" />
+
+<img width="1212" height="526" alt="Ekran görüntüsü 2026-06-26 162434" src="https://github.com/user-attachments/assets/f9a771f6-2a3a-449c-890e-3f44625479ea" />
 
 ## Geliştirici
 
