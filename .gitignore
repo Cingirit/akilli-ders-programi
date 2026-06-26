@@ -1,0 +1,28 @@
+# Ortam değişkenleri - KESİNLİKLE gizli kalmalı
+.env
+.env.local
+.env.production
+
+# Node modules
+node_modules/
+client/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+optimizer/__pycache__/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+
+# Build çıktıları
+client/build/
+
+# IDE
+.vscode/
+.idea/
